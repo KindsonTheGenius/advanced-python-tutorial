@@ -1,12 +1,14 @@
 Table of Content
 
-Advanced Conditional Statements
-Regular Expressions
-OOPS
-ITERABLES, ITERATORS and Generators
-CLOSURES and DECORATORS
-Memory Management
-Testing
+1. Advanced Conditional Statements
+2. Regular Expressions
+3. OOPS
+4. ITERABLES, ITERATORS and Generators
+5. CLOSURES and DECORATORS
+6. Memory Management
+7. Testing
+
+
 Advanced Python Topics Tutorial For Beginners
 In this Advanced Python Topics Tutorial we have currated advanced Python topics and sub-topics for you which will help you to master advanced Python with ease.
 
