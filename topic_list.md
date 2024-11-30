@@ -1,3 +1,39 @@
+### Project Manager
+1. Generators
+2. Asynchronous Programming (asyncio)
+3. Coroutine
+4. Multiprocessing (differentiate from Multithreading)
+5. Cython (differentiate from CPython)
+6. Closure
+7. Decorators
+8. Meta Classes
+9. Context Manager
+10. Pydantic (and Dataclasses and attr)
+11. Python Descriptor Protocol
+12. Memory Management and gc Module
+13. Function Overloading and Special Methods
+14. Abstract Base Classes
+15. Lazy Evaluation with functools.lru_cache and Iterators
+16. Weak References (weakref module)
+17. Global Interpreter Lock
+18. Context Variables
+19. Yield From
+20. Advanced async and await
+21. Abstract Syntax Tree and Code Analysis
+22. Multiprocessing and Shared Memory
+23. Mixin and Multiple Inheritance
+24. Command-Line Arguments - argv
+25. FastAPI
+26. Slots
+27. Dataclasses and attr (related to Pydantic)
+28. Underscores
+29. Map, Filter and Reduce
+
+
+
+
+
+
 Table of Content
 
 1. Advanced Conditional Statements
