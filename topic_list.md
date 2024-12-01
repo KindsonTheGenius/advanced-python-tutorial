@@ -11,7 +11,7 @@
 10. Pydantic (and Dataclasses and attr)
 11. Python Descriptor Protocol
 12. Memory Management and gc Module
-13. Function Overloading and Special Methods
+13. Function Overloading
 14. Abstract Base Classes
 15. Lazy Evaluation with functools.lru_cache and Iterators
 16. Weak References (weakref module)
@@ -28,7 +28,10 @@
 27. Dataclasses and attr (related to Pydantic)
 28. Underscores
 29. Map, Filter and Reduce
-
+30. Shared Memory
+31. Observer Pattern
+32. Special Methods
+33. Python Compilation Process
 
 
 
