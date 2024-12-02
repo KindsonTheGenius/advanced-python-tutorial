@@ -20,8 +20,8 @@
 19. Yield From
 20. Advanced async and await
 21. Abstract Syntax Tree and Code Analysis
-22. Multiprocessing and Shared Memory
-23. Mixin and Multiple Inheritance
+22. Multiprocessing
+23. Multiple Inheritance and Mixin
 24. Command-Line Arguments - argv
 25. FastAPI
 26. Slots
@@ -32,6 +32,8 @@
 31. Observer Pattern
 32. Special Methods
 33. Python Compilation Process
+34. Misc
+35. What is Pypy
 
 
 
